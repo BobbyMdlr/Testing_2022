@@ -1,3 +1,5 @@
 This is the first comment from remote file
 
 This is the second commit from remote file
+
+This is from the local commit -1
